@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Смушков Кирилл</string>
+    <string name="title">Android Developer</string>
+    <string name="phone">+7 953 061 3146</string>
+    <string name="social">ksmushkov</string>
+    <string name="email">ksmushkov@bk.ru</string>
+</resources>

@@ -1,0 +1,17 @@
+# Общие для Android проектов
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Каждый проект имеет свою папку build, .gradle, .idea
+*/build/
+*/.gradle/
+*/.idea/
+*/local.properties
